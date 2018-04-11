@@ -1,0 +1,10 @@
+/Cpu.class
+/Mainboard.class
+/IntelCpu.class
+/AmdCpu.class
+/IntelMainboard.class
+/AmdMainboard.class
+/CpuFactory.class
+/MainboardFactory.class
+/ComputerEngineer.class
+/Client.class
